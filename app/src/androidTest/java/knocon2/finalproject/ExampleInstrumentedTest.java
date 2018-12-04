@@ -24,3 +24,5 @@ public class ExampleInstrumentedTest {
         assertEquals("knocon2.finalproject", appContext.getPackageName());
     }
 }
+
+//random crap stuff
